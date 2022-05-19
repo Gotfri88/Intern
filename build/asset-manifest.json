@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.56085d5f.css",
+    "main.js": "/static/js/main.43c3587d.js",
+    "static/media/Scanner_person.png": "/static/media/Scanner_person.fea0d588b791bbc2b5fd.png",
+    "static/media/QR_blob.png": "/static/media/QR_blob.edf9169d42b41111b4d1.png",
+    "static/media/QR_Hand.png": "/static/media/QR_Hand.9ad2f7fc89f46361c3b0.png",
+    "static/media/Scanner_dark.png": "/static/media/Scanner_dark.487a995056403ddb4e82.png",
+    "static/media/Benefits-phone.png": "/static/media/Benefits-phone.f88183de012c427fbfa3.png",
+    "static/media/blob.png": "/static/media/blob.a9890b3e7fc6cd5589aa.png",
+    "static/media/Logo_background.png": "/static/media/Logo_background.fbd57341e83344b809db.png",
+    "static/media/Mission_phone.png": "/static/media/Mission_phone.76bfd866af722abca87b.png",
+    "static/media/QR_Darker.png": "/static/media/QR_Darker.2ea685f0f49817b96f16.png",
+    "static/media/QR_glass.png": "/static/media/QR_glass.e2bda43d9361f03cb9fe.png",
+    "static/media/Logo_phone_back.png": "/static/media/Logo_phone_back.af80b7179d66e5f1bff1.png",
+    "static/media/landingPhone.png": "/static/media/landingPhone.2647ee6d91f6a9a140b8.png",
+    "static/media/Form-blob.png": "/static/media/Form-blob.df4a32f7fbce10797b4f.png",
+    "static/media/blueBlob.png": "/static/media/blueBlob.c2e5128de6ae7c5ee9eb.png",
+    "static/media/Mission-phone-small.png": "/static/media/Mission-phone-small.1169500d0a6d7cbb6f37.png",
+    "static/media/Mission_blob.png": "/static/media/Mission_blob.d4881c2aaf9026c470af.png",
+    "static/media/QR_Top_phone.png": "/static/media/QR_Top_phone.c91c3cf87dbf9dff4dd2.png",
+    "static/media/QR_Bottom_phone.png": "/static/media/QR_Bottom_phone.d9fe78122bec206995f6.png",
+    "static/media/Scanner_phone_left.png": "/static/media/Scanner_phone_left.1ed83bf8d1a691e68f8b.png",
+    "static/media/Scanner_phone_right.png": "/static/media/Scanner_phone_right.12c3279f2a461fed825b.png",
+    "static/media/QR_phone.png": "/static/media/QR_phone.00296bc020deab96da58.png",
+    "static/media/QR_logo.png": "/static/media/QR_logo.4aec624a42eb551e0567.png",
+    "static/media/Logo_phone.png": "/static/media/Logo_phone.84bc53fdc90eb947dc5f.png",
+    "static/media/Tool_idea.png": "/static/media/Tool_idea.22c1ce3dc6959288e6ec.png",
+    "static/media/Tool_charging.png": "/static/media/Tool_charging.2657a877c18561892b69.png",
+    "static/media/Tool_grey.png": "/static/media/Tool_grey.0ff0b4aabc4a5542cf7b.png",
+    "index.html": "/index.html",
+    "main.56085d5f.css.map": "/static/css/main.56085d5f.css.map",
+    "main.43c3587d.js.map": "/static/js/main.43c3587d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56085d5f.css",
+    "static/js/main.43c3587d.js"
+  ]
+}
