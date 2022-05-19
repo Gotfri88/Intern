@@ -1,0 +1,137 @@
+.container{
+    position: relative;
+    /* width: 100%; */
+    width: 1345px;
+    height: 1100px;
+    overflow: hidden;
+}
+.container_person{
+    position: absolute;
+    width: 100%;
+    z-index: -1;
+  
+}
+.container_person_darker{
+    position: absolute;
+    width: 100%;
+}
+
+.container_phone{
+    position: absolute;
+    top: 40%;
+    left: 0;
+    z-index: 1;
+}
+.container_phone img{
+    margin: 0 10px;
+}
+.container_text{
+    width: 400px;
+    position: absolute;
+    z-index: 1;
+    top: 66%;
+    left: 60%;
+}
+.container_text h1{
+    margin-bottom: 20px;
+    font-weight: 700;
+    font-size: 51px;
+    line-height: 62px;
+}
+.container_text p{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px; 
+}
+.container_phone-small{
+    display: none;
+}
+@media only screen and (max-width: 968px){
+    .container{
+        position: relative;
+        max-width: 968px;
+        height: 100%;
+        overflow: hidden;
+    }
+    .container_phone{
+        display: none;
+        flex-direction: column;
+        z-index: 1;
+    }
+    .container_text{
+        width: 500px;
+        position: absolute;
+        z-index: 1;
+        top: 19%;
+        left: 1%;
+    }
+    .container_text h1{
+        margin-bottom: 20px;
+        font-weight: 700;
+        font-size: 31px;
+        line-height: 62px;
+    }
+    .container_text p{
+        width: 300px;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 25px; 
+    }
+    .container_phone-small{
+        margin-top: 700px;
+        display: flex;
+        
+    }
+    .container_phone-small img{
+        margin: 20px 30px;
+        width: 33%;
+    }
+    
+}
+@media only screen and (max-width: 468px){
+    .container{
+        position: relative;
+        max-width: 468px;
+        height: 100%;
+        overflow: hidden;
+    }
+    .container_phone{
+        display: none;
+        flex-direction: column;
+        z-index: 1;
+    }
+    .container_text{
+        width: 468px;
+        position: absolute;
+        z-index: 1;
+        top: 19%;
+        left: 1%;
+        padding: 5px;
+        margin-left: 5px;
+    }
+    .container_text h1{
+       
+        margin-bottom: 20px;
+        font-weight: 700;
+        font-size: 31px;
+        line-height: 62px;
+    }
+    .container_text p{
+        width: 300px;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 25px; 
+    }
+    .container_phone-small{
+        margin-top: 450px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .container_phone-small img{
+        margin: 20px 30px;
+        width: 33%;
+    }
+    
+}

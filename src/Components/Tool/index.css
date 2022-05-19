@@ -1,0 +1,130 @@
+.flex_tool{
+    display:  flex;
+    padding: 40px;
+}
+.flex_tool_left{
+    width: 500px;
+    margin-top: 10%;
+   
+}
+.flex_tool_left h1{
+    font-weight: 700;
+    font-size: 51px;
+    line-height: 62px;
+    margin-bottom: 20px;
+}
+.flex_tool_left p{
+    width: 350px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+}
+.flex_tool_right{
+    margin-left: -10%;
+    width: 800px;
+    height: 600px;
+    position: relative;
+}
+.grey_img{
+    top: 5%;
+    left: 49%;
+    position: absolute;
+}
+.top_pool_img{
+    top: 36%;
+    left: 27%;
+    position: absolute;
+}
+.idea_img{
+    top: 36%;
+    left: 64%;
+    position: absolute;
+}
+.left_graph_img{
+    top: 47%;
+    left: 9%;
+    position: absolute;
+}
+.right_graph_img{
+    top: 55%;
+    left: 42%;
+    position: absolute;
+}
+.sticks_img{
+    top: 72%;
+    left: 32%;
+    position: absolute;
+    z-index: -1;
+}
+.charging_img{
+    top: 85%;
+    left: 63%;
+    position: absolute;  
+}
+@media only screen and (max-width: 468px){
+    .flex_tool{
+        display:  flex;
+        flex-direction: column;
+        padding: 40px;
+    }
+    .flex_tool_left{
+        width:400px;
+        margin-top: 10%;
+       
+    }
+    .flex_tool_left h1{
+        font-weight: 700;
+        font-size: 31px;
+        line-height: 32px;
+        margin-bottom: 20px;
+    }
+    .flex_tool_left p{
+        width: 350px;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 25px;
+    }
+    .flex_tool_right{
+        width: 468px;
+        height: 600px;
+        position: relative;
+    }
+    .grey_img{
+        width: 50%;
+        top: 65%;
+        left: -15%;
+        position: absolute;
+    }
+    .top_pool_img{
+        width: 36%;
+        top: 27%;
+        left: 1%;
+        position: absolute;
+    }
+    .idea_img{
+        width: 30%;
+        top: 5%;
+        left: 70%;
+        position: absolute;
+    }
+    .left_graph_img{
+        display: none;
+    }
+    .right_graph_img{
+        width: 35%;
+        top: 18%;
+        left: 42%;
+        position: absolute;
+    }
+    .sticks_img{
+        width: 30%;
+        top: 35%;
+        left: 30%;
+        position: absolute;
+    }
+    .charging_img{
+        top: 80%;
+        left: 43%;
+        position: absolute;  
+    }
+}
